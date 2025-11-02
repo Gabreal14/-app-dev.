@@ -4,7 +4,7 @@ My first repository.
 
 ---
 
-## 🧠 Main Characters
+##  Main Characters
 - **Dusty Bun**
 - *El* 
 - **Nancy**
@@ -14,7 +14,7 @@ My first repository.
 # My Favorite Movie: Twilight
 ---
 
-## 🧠 Main Characters
+##  Main Characters
 - **Bella**
 - *Jacob* 
 - **Edward**
